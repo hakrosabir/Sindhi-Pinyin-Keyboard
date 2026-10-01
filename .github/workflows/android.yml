@@ -1,0 +1,52 @@
+name: Android build and tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: android-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v3
+      - name: Install compilation platform
+        run: sdkmanager 'platforms;android-36' 'build-tools;36.0.0'
+      - name: Set up Gradle and validate wrapper
+        uses: gradle/actions/setup-gradle@v4
+      - name: Test, lint, and build
+        run: ./gradlew --no-daemon :engine:test :app:testDebugUnitTest :app:lintDebug :app:assembleDebug :app:assembleDebugAndroidTest
+      - name: Upload test and lint reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: verification-reports
+          path: |
+            engine/build/reports/tests/
+            app/build/reports/tests/
+            app/build/reports/lint-results-debug.*
+          if-no-files-found: warn
+          retention-days: 14
+      - name: Upload development APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: sindhi-pinyin-debug
+          path: app/build/outputs/apk/debug/app-debug.apk
+          if-no-files-found: error
+          retention-days: 14

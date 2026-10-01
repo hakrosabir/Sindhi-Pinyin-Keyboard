@@ -1,0 +1,296 @@
+# Original demonstration seed. All spellings, frequencies and romanizations require native-speaker review.
+# Frequencies are hand-set ranking weights, NOT corpus counts. No licensed dictionary is copied.
+mode	roman	text	frequency	note
+EVERYDAY	sindhi	سنڌي	990	DRAFT original seed: Sindhi
+EVERYDAY	sindh	سنڌ	950	DRAFT original seed: Sindh
+EVERYDAY	salam	سلام	940	DRAFT original seed: greeting
+EVERYDAY	shukriya	شڪريو	900	DRAFT original seed: thanks; variant spelling
+EVERYDAY	shukriyo	شڪريو	910	DRAFT original seed: thanks
+EVERYDAY	mehrbani	مهرباني	880	DRAFT original seed: kindness or please
+EVERYDAY	meherbani	مهرباني	870	DRAFT original seed: variant alias
+EVERYDAY	maan	مان	980	DRAFT original seed: I
+EVERYDAY	man	مان	800	DRAFT original seed: everyday alias
+EVERYDAY	toon	تون	950	DRAFT original seed: you singular
+EVERYDAY	tun	تون	850	DRAFT original seed: everyday alias
+EVERYDAY	tawhan	توهان	940	DRAFT original seed: you plural or polite
+EVERYDAY	tawhaan	توهان	930	DRAFT original seed: everyday alias
+EVERYDAY	asan	اسان	930	DRAFT original seed: we
+EVERYDAY	asaan	اسان	920	DRAFT original seed: everyday alias
+EVERYDAY	hu	هو	920	DRAFT original seed: he or that
+EVERYDAY	hee	هي	910	DRAFT original seed: this
+EVERYDAY	ahe	آهي	980	DRAFT original seed: is
+EVERYDAY	aahe	آهي	970	DRAFT original seed: everyday alias
+EVERYDAY	aahiyan	آهيان	950	DRAFT original seed: am
+EVERYDAY	nahi	ناهي	920	DRAFT original seed: is not
+EVERYDAY	na	نه	910	DRAFT original seed: no or not
+EVERYDAY	ha	ها	900	DRAFT original seed: yes
+EVERYDAY	cha	ڇا	920	DRAFT original seed: what
+EVERYDAY	chha	ڇا	910	DRAFT original seed: everyday alias
+EVERYDAY	chaa	ڇا	900	DRAFT original seed: everyday alias
+EVERYDAY	kithay	ڪٿي	890	DRAFT original seed: where
+EVERYDAY	kithe	ڪٿي	900	DRAFT original seed: everyday alias
+EVERYDAY	kadhen	ڪڏهن	860	DRAFT original seed: when
+EVERYDAY	chho	ڇو	870	DRAFT original seed: why
+EVERYDAY	changa	چڱا	900	DRAFT original seed: well; contextual inflection
+EVERYDAY	chango	چڱو	920	DRAFT original seed: good; contextual inflection
+EVERYDAY	sutha	سٺا	880	DRAFT original seed: good plural
+EVERYDAY	sutho	سٺو	890	DRAFT original seed: good singular
+EVERYDAY	dost	دوست	870	DRAFT original seed: friend
+EVERYDAY	nalo	نالو	880	DRAFT original seed: name
+EVERYDAY	ghar	گهر	890	DRAFT original seed: home
+EVERYDAY	pani	پاڻي	900	DRAFT original seed: water
+EVERYDAY	paanee	پاڻي	890	DRAFT original seed: everyday alias
+EVERYDAY	kitab	ڪتاب	900	DRAFT original seed: book
+EVERYDAY	likhan	لکڻ	850	DRAFT original seed: writing; verify romanization
+EVERYDAY	parhan	پڙهڻ	850	DRAFT original seed: reading; verify romanization
+EVERYDAY	boli	ٻولي	900	DRAFT original seed: language
+EVERYDAY	bbolee	ٻولي	870	DRAFT original seed: explicit implosive alias
+EVERYDAY	pyar	پيار	870	DRAFT original seed: love
+EVERYDAY	muhnjo	منهنجو	900	DRAFT original seed: my
+EVERYDAY	tuhnjo	تنهنجو	880	DRAFT original seed: your
+EVERYDAY	jo	جو	950	DRAFT original seed: genitive masculine
+EVERYDAY	ji	جي	940	DRAFT original seed: genitive feminine
+EVERYDAY	ja	جا	930	DRAFT original seed: genitive plural
+EVERYDAY	khe	کي	940	DRAFT original seed: postposition
+EVERYDAY	saan	سان	930	DRAFT original seed: with
+EVERYDAY	mein	۾	920	DRAFT original seed: in; Roman alias assumption
+EVERYDAY	ain	۽	940	DRAFT original seed: and
+EVERYDAY	aj	اڄ	900	DRAFT original seed: today
+EVERYDAY	sabhaane	سڀاڻي	860	DRAFT original seed: tomorrow
+SCHOLARLY	sindhī	سنڌي	990	DRAFT canonical whole-word spelling; expert review pending
+SCHOLARLY	sindhu	سنڌ	950	DRAFT canonical whole-word spelling; expert review pending
+SCHOLARLY	salām	سلام	940	DRAFT canonical whole-word spelling; expert review pending
+SCHOLARLY	kitābu	ڪتاب	900	DRAFT canonical whole-word spelling; expert review pending
+EVERYDAY	twan	توهان	995	User Roman example; Sindhi spelling inferred from English meaning; review
+EVERYDAY	tuhan	توهان	920	DRAFT everyday alias; review
+EVERYDAY	tawhanjo	توهانجو	850	DRAFT joined possessive variant; review
+EVERYDAY	sha	ڇا	995	User Roman example meaning what; inferred Sindhi; review
+EVERYDAY	kathe	ڪٿي	995	User Roman example meaning where; inferred Sindhi; review
+EVERYDAY	kathy	ڪٿي	900	DRAFT everyday alias; review
+EVERYDAY	rahnda	رهندا	995	User Roman example; inferred Sindhi; review
+EVERYDAY	rahndo	رهندو	995	User Roman example; inferred Sindhi; review
+EVERYDAY	ahyo	آهيو	995	User Roman example; inferred Sindhi; review
+EVERYDAY	aahyo	آهيو	940	DRAFT everyday alias; review
+EVERYDAY	ahiyo	آهيو	940	DRAFT everyday alias; review
+EVERYDAY	aahiyo	آهيو	940	DRAFT everyday alias; review
+EVERYDAY	ahyna	آهيان	995	User Roman example; inferred Sindhi; review
+EVERYDAY	ahyan	آهيان	950	DRAFT everyday alias; review
+EVERYDAY	ahiyan	آهيان	950	DRAFT everyday alias; review
+EVERYDAY	aahyan	آهيان	950	DRAFT everyday alias; review
+EVERYDAY	ma	مان	990	User Roman example meaning I; context can select in
+EVERYDAY	ma	۾	650	User Roman example meaning in after Sindh; context disambiguation
+EVERYDAY	qambar	قمبر	995	User supplied place name; inferred Sindhi spelling; review
+EVERYDAY	kambar	قمبر	920	DRAFT place alias; review
+EVERYDAY	naalo	نالو	950	DRAFT everyday alias; review
+EVERYDAY	munhjo	منهنجو	940	DRAFT everyday alias; review
+EVERYDAY	munhinjo	منهنجو	920	DRAFT everyday alias; review
+EVERYDAY	tunhjo	تنهنجو	930	DRAFT everyday alias; review
+EVERYDAY	mukhe	مون کي	910	DRAFT word sequence; review
+EVERYDAY	munkhe	مون کي	920	DRAFT word sequence; review
+EVERYDAY	tokhe	توکي	900	DRAFT everyday alias; review
+EVERYDAY	mon	مون	920	DRAFT everyday alias; review
+EVERYDAY	moon	مون	930	DRAFT everyday alias; review
+EVERYDAY	me	۾	900	DRAFT everyday alias; review
+EVERYDAY	men	۾	900	DRAFT everyday alias; review
+EVERYDAY	watho	وٺو	870	DRAFT everyday alias; review
+EVERYDAY	wanjo	وڃو	900	DRAFT everyday alias; review
+EVERYDAY	wajan	وڃڻ	850	DRAFT everyday alias; review
+EVERYDAY	acho	اچو	900	DRAFT everyday alias; review
+EVERYDAY	achaan	اچان	880	DRAFT everyday alias; review
+EVERYDAY	ach	اچ	900	DRAFT everyday alias; review
+EVERYDAY	karyo	ڪريو	910	DRAFT everyday alias; review
+EVERYDAY	kare	ڪري	920	DRAFT everyday alias; review
+EVERYDAY	karyan	ڪريان	900	DRAFT everyday alias; review
+EVERYDAY	karan	ڪرڻ	910	DRAFT everyday alias; review
+EVERYDAY	kando	ڪندو	890	DRAFT everyday alias; review
+EVERYDAY	kanda	ڪندا	890	DRAFT everyday alias; review
+EVERYDAY	tho	ٿو	980	DRAFT everyday alias; review
+EVERYDAY	thi	ٿي	980	DRAFT everyday alias; review
+EVERYDAY	tha	ٿا	980	DRAFT everyday alias; review
+EVERYDAY	thiyo	ٿيو	920	DRAFT everyday alias; review
+EVERYDAY	thiyan	ٿيان	900	DRAFT everyday alias; review
+EVERYDAY	likho	لکو	920	DRAFT everyday alias; review
+EVERYDAY	likhan	لکڻ	880	DRAFT everyday alias; review
+EVERYDAY	likhando	لکندو	850	DRAFT everyday alias; review
+EVERYDAY	likhi	لکي	920	DRAFT everyday alias; review
+EVERYDAY	likhyo	لکيو	920	DRAFT everyday alias; review
+EVERYDAY	parho	پڙهو	910	DRAFT everyday alias; review
+EVERYDAY	parhyo	پڙهيو	900	DRAFT everyday alias; review
+EVERYDAY	chayo	چيو	900	DRAFT everyday alias; review
+EVERYDAY	chawan	چوان	890	DRAFT everyday alias; review
+EVERYDAY	chaw	چئو	880	DRAFT everyday alias; review
+EVERYDAY	budhayo	ٻڌايو	920	DRAFT everyday alias; review
+EVERYDAY	samajh	سمجهه	890	DRAFT everyday alias; review
+EVERYDAY	samjhi	سمجهي	890	DRAFT everyday alias; review
+EVERYDAY	sikhan	سکڻ	900	DRAFT everyday alias; review
+EVERYDAY	zaban	زبان	900	DRAFT everyday alias; review
+EVERYDAY	asaanji	اسانجي	800	DRAFT joined form; review
+EVERYDAY	duniya	دنيا	900	DRAFT everyday alias; review
+EVERYDAY	pakistan	پاڪستان	950	DRAFT place name; review
+EVERYDAY	karachi	ڪراچي	950	DRAFT place name; review
+EVERYDAY	larkana	لاڙڪاڻو	940	DRAFT place name; review
+EVERYDAY	sukkur	سکر	940	DRAFT place name; review
+EVERYDAY	hyderabad	حيدرآباد	930	DRAFT place name; review
+EVERYDAY	khairpur	خيرپور	930	DRAFT place name; review
+EVERYDAY	ali	علي	920	DRAFT personal name; review
+EVERYDAY	sabir	صابر	920	DRAFT personal name; review
+EVERYDAY	waqt	وقت	920	DRAFT everyday alias; review
+EVERYDAY	din	ڏينهن	900	DRAFT everyday alias; review
+EVERYDAY	raat	رات	920	DRAFT everyday alias; review
+EVERYDAY	subh	صبح	910	DRAFT everyday alias; review
+EVERYDAY	shaam	شام	910	DRAFT everyday alias; review
+EVERYDAY	haal	حال	940	DRAFT everyday alias; review
+EVERYDAY	kean	ڪيئن	930	DRAFT everyday alias; review
+EVERYDAY	kiyan	ڪيئن	930	DRAFT everyday alias; review
+EVERYDAY	kian	ڪيئن	930	DRAFT everyday alias; review
+EVERYDAY	kher	خير	920	DRAFT everyday alias; review
+EVERYDAY	khair	خير	920	DRAFT everyday alias; review
+EVERYDAY	allah	الله	950	DRAFT everyday alias; review
+EVERYDAY	khuda	خدا	930	DRAFT everyday alias; review
+EVERYDAY	khush	خوش	930	DRAFT everyday alias; review
+EVERYDAY	khushi	خوشي	920	DRAFT everyday alias; review
+EVERYDAY	nahin	ناهي	910	DRAFT everyday alias; review
+EVERYDAY	sahi	صحيح	900	DRAFT everyday alias; review
+EVERYDAY	bilkul	بلڪل	920	DRAFT everyday alias; review
+EVERYDAY	zaroor	ضرور	920	DRAFT everyday alias; review
+EVERYDAY	helo	هيلو	850	DRAFT greeting alias; review
+EVERYDAY	hello	هيلو	850	DRAFT greeting alias; review
+EVERYDAY	mahn	مان	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	tu	تون	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	to	تون	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	tohan	توهان	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	twhan	توهان	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ho	هو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	hoo	هو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	hee	هِي	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	hi	هِي	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	he	هِي	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	asn	اسان	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ahee	اهي	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ahi	اهي	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ahe	اهي	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ahay	اهي	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	hik	هڪ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	hek	هڪ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	chhah	ڇا	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	kiyun	ڪيئن	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	kiun	ڪيئن	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	kyun	ڪيئن	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	kiu	ڪيئن	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	kithy	ڪٿي	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	keer	ڪير	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ker	ڪير	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	kir	ڪير	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	cho	ڇو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	haa	ها	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	han	ها	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	nah	نه	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	naa	نه	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	aen	۽	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	an	۽	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ya	يا	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	yah	يا	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	yaa	يا	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	par	پر	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	pr	پر	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	maen	۾	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	san	سان	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	sa	سان	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	hi	هي	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	he	هي	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	aho	اهو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ahu	اهو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ahoh	اهو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	paani	پاڻي	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	pany	پاڻي	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	maani	ماني	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	mani	ماني	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	manee	ماني	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ghr	گهر	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ghur	گهر	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	kam	ڪم	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	km	ڪم	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	dust	دوست	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	bhaau	ڀاءُ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	bhau	ڀاءُ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	bheen	ڀيڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	bhin	ڀيڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	bhen	ڀيڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	maau	ماءُ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	mau	ماءُ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ma	ماءُ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	peeu	پيءُ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	piu	پيءُ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	peu	پيءُ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ddeenhun	ڏينهن	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	deenh	ڏينهن	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	rat	رات	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	saal	سال	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	sal	سال	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	sahl	سال	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	vaqt	وقت	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	waqat	وقت	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	kitaab	ڪتاب	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ktab	ڪتاب	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	qalam	قلم	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	kalam	قلم	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	qalm	قلم	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	maannho	ماڻهو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	manho	ماڻهو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	manhu	ماڻهو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	shahar	شهر	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	shahr	شهر	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	shehar	شهر	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ggoth	ڳوٺ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	goth	ڳوٺ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	rasto	رستو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	rasta	رستو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	paisa	پئسا	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	psa	پئسا	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	waddo	وڏو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	vaddo	وڏو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	wado	وڏو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	nandho	ننڍو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	nndho	ننڍو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	suthoh	سٺو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	naun	نئون	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	nawun	نئون	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	diggho	ڊگهو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	digho	ڊگهو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	digghoh	ڊگهو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	garam	گرم	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	garm	گرم	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	thadho	ٿڌو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	thado	ٿڌو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	thdhoh	ٿڌو	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	khaainn	کائڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	khain	کائڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	khaan	کائڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	peeinn	پيئڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	pin	پيئڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	peen	پيئڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	samhann	سمهڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	samhan	سمهڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	smhn	سمهڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	halann	هلڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	halan	هلڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	hln	هلڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	parrhann	پڙهڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	prhn	پڙهڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	likhann	لکڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	lkhn	لکڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ggaalhaainn	ڳالهائڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	galain	ڳالهائڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ggalhaan	ڳالهائڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	bbudhann	ٻڌڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	budhan	ٻڌڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	bbudhn	ٻڌڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ddisann	ڏسڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	disan	ڏسڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	ddsn	ڏسڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	wanjann	وڃڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	wanjan	وڃڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	wnjn	وڃڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	achann	اچڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	achan	اچڻ	900	USER supplied word list; alternative spelling; linguistic review pending
+EVERYDAY	achn	اچڻ	900	USER supplied word list; alternative spelling; linguistic review pending

@@ -1,0 +1,20 @@
+Sindhi Spellchecking Dictionary 2011.01.10
+Maintainer: nizamani (as listed on the OpenOffice extension page)
+Source: https://extensions.openoffice.org/en/project/sindhi-spellchecking-dictionary.html
+Download: https://extensions.openoffice.org/en/download/4805
+License: GNU Lesser General Public License 2.1; see LGPL.txt.
+
+The original sd.dic, sd.aff, LGPL.txt, desc.txt and description.xml files are
+redistributed unchanged from dict-sd.oxt. Original source descriptions and
+attributions, including its stated Urdu dictionary ancestry, are preserved.
+The extension advertises 10,000+ Sindhi words and explicitly is not complete.
+
+The keyboard filters entries and builds a phonetic retrieval index in memory.
+Roman aliases, vowel-folding, consonant-folding and ranking are independent
+project heuristics, not pronunciations provided or validated by the dictionary.
+Original output spellings are retained. No corpus frequency is inferred.
+
+You can inspect or replace the dictionary data and rebuild the application.
+The source files are included as readable APK assets and in the source tree.
+The new independent application code remains Apache-2.0; the dictionary data
+retains its own LGPL-2.1 terms.

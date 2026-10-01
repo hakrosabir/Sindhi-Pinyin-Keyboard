@@ -1,0 +1,29 @@
+# Authored draft conversation templates, not collected chats and not a trained language model.
+# Roman aliases, inferred script and hand-set weights require native-speaker review.
+roman	text	weight	note
+twan jo nalo sha ahe	توهان جو نالو ڇا آهي	990	User example; inferred script pending review
+twan kathe rahnda ahyo	توهان ڪٿي رهندا آهيو	980	User example; inferred script pending review
+ma qambar sindh ma rahndo ahyna	مان قمبر سنڌ ۾ رهندو آهيان	970	User example; inferred script pending review
+twan jo haal kean ahe	توهان جو حال ڪيئن آهي	900	DRAFT authored everyday greeting; review
+maan theek ahyan	مان ٺيڪ آهيان	890	DRAFT authored reply; review
+twan ji mehrbani	توهان جي مهرباني	900	DRAFT authored thanks; review
+salam alaikum	السلام عليڪم	850	DRAFT authored greeting; review
+walaikum salam	وعليڪم السلام	840	DRAFT authored greeting reply; review
+moon khe pani gharje	مون کي پاڻي گهرجي	850	DRAFT authored request; review
+moon khe madad gharje	مون کي مدد گهرجي	860	DRAFT authored request; review
+munhinjo nalo ali ahe	منهنجو نالو علي آهي	800	DRAFT example name; review
+munhinjo nalo sabir ahe	منهنجو نالو صابر آهي	800	DRAFT example name; review
+twan saan mili khushi thi	توهان سان ملي خوشي ٿي	810	DRAFT authored phrase; review
+twan sha karyo tha	توهان ڇا ڪريو ٿا	830	DRAFT authored question; review
+aj mausam sutho ahe	اڄ موسم سٺو آهي	810	DRAFT authored phrase; review
+haan maan achan tho	ها مان اچان ٿو	800	DRAFT authored reply; review
+maan ghar wanjan tho	مان گهر وڃان ٿو	800	DRAFT authored phrase; review
+maan kam karyan tho	مان ڪم ڪريان ٿو	820	DRAFT authored phrase; review
+kitab kathe ahe	ڪتاب ڪٿي آهي	840	DRAFT authored question; review
+sabhane milandaseen	سڀاڻي ملنداسين	800	DRAFT authored farewell; review
+sindhi asan ji boli ahe	سنڌي اسان جي ٻولي آهي	830	DRAFT authored phrase; review
+maan sindhi sikhan chahyan tho	مان سنڌي سکڻ چاهيان ٿو	820	DRAFT authored phrase; review
+moon khe sindhi achi thi	مون کي سنڌي اچي ٿي	810	DRAFT authored phrase; review
+twan khe sha gharje	توهان کي ڇا گهرجي	830	DRAFT authored question; review
+moon khe khabar nahe	مون کي خبر ناهي	800	DRAFT authored phrase; review
+he munhinjo dost ahe	هي منهنجو دوست آهي	800	DRAFT authored phrase; review

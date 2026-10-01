@@ -1,0 +1,8 @@
+This dictionary has been converted from FireFox Urdu Dictionary available at http://urdudictionary.codeplex.com/
+
+The spell checker combines multiple word lists for the dictionary. Following are the major sources used 
+1. Urdu word list provided at the web site of Center for Research in Urdu Language Processing (CRULP): http://www.crulp.org/software/ling_resources/wordlist.htm
+2. Urdu word list created by our friends at Urdu Mehfil: http://www.urduweb.org/mehfil/forum.php
+3. Word list created by scanning daily Jang articles.
+
+This dictionary is licensed under GNU LGPL 2.1.

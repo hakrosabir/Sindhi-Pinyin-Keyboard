@@ -1,0 +1,36 @@
+.gradle/
+.kotlin/
+.idea/
+**/build/
+local.properties
+.tools/
+*.jks
+*.keystore
+keystore.properties
+*.hprof
+*.log
+captures/
+
+# Local packages, duplicate source snapshots, and unpublished research
+/dist/
+/release-kit/
+/example.jpg
+/Paper on Sindhi Language.pdf
+/Paper IDea Sindhi audio generation.txt
+/sindhi pinyin sys.html
+
+# Credentials and local exports
+.env
+.env.*
+!.env.example
+*.p12
+*.pem
+*.key
+publisher-details.json
+google-services.json
+service-account*.json
+*.db
+*.db-shm
+*.db-wal
+.DS_Store
+Thumbs.db

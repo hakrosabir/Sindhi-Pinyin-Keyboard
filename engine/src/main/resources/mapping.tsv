@@ -1,0 +1,106 @@
+# Draft v0.1. Every reverse-input rule needs native-speaker review. See docs/MAPPING.md.
+# Scholarly tokens are a proposed strict subset; this is NOT full ALA-LC compliance.
+mode	roman	text	priority	note
+BOTH	b	ب	90	Draft reverse-input rule; review
+BOTH	bh	ڀ	95	Draft reverse-input rule; review
+BOTH	t	ت	90	Draft reverse-input rule; review
+BOTH	th	ٿ	95	Draft reverse-input rule; review
+BOTH	p	پ	90	Draft reverse-input rule; review
+BOTH	j	ج	90	Draft reverse-input rule; review
+BOTH	jh	جھ	95	Draft reverse-input rule; review
+BOTH	d	د	90	Draft reverse-input rule; review
+BOTH	dh	ڌ	95	Draft reverse-input rule; review
+BOTH	r	ر	90	Draft reverse-input rule; review
+BOTH	z	ز	90	Draft reverse-input rule; review
+BOTH	s	س	90	Draft reverse-input rule; review
+BOTH	sh	ش	95	Draft reverse-input rule; review
+BOTH	f	ف	90	Draft reverse-input rule; review
+BOTH	ph	ڦ	95	Draft reverse-input rule; review
+BOTH	q	ق	90	Draft reverse-input rule; review
+BOTH	k	ڪ	90	Draft reverse-input rule; review
+BOTH	g	گ	90	Draft reverse-input rule; review
+BOTH	l	ل	90	Draft reverse-input rule; review
+BOTH	m	م	90	Draft reverse-input rule; review
+BOTH	n	ن	90	Draft reverse-input rule; review
+BOTH	v	و	90	Draft reverse-input rule; review
+BOTH	h	ھ	90	Draft chosen Unicode heh form; review
+BOTH	y	ي	90	Draft reverse-input rule; review
+EVERYDAY	a	ا	85	ASSUMPTION: letter fallback; dictionary restores normal spelling
+EVERYDAY	aa	ا	95	ASSUMPTION: everyday long-vowel alias
+EVERYDAY	aaa	آ	96	ASSUMPTION: explicit alif-madda escape
+EVERYDAY	i	ي	85	ASSUMPTION: short-vowel fallback may overgenerate
+EVERYDAY	ee	ي	95	ASSUMPTION: everyday long-vowel alias
+EVERYDAY	ii	ي	95	ASSUMPTION: everyday long-vowel alias
+EVERYDAY	u	و	85	ASSUMPTION: short-vowel fallback may overgenerate
+EVERYDAY	oo	و	95	ASSUMPTION: everyday long-vowel alias
+EVERYDAY	uu	و	95	ASSUMPTION: everyday long-vowel alias
+EVERYDAY	e	ي	85	ASSUMPTION: everyday vowel fallback
+EVERYDAY	o	و	85	ASSUMPTION: everyday vowel fallback
+EVERYDAY	w	و	90	ASSUMPTION: everyday v/w alias
+EVERYDAY	x	ڪس	90	ASSUMPTION: x as ks; choose script keys for other readings
+EVERYDAY	bb	ٻ	95	ASSUMPTION: explicit implosive alias; b|b escapes doubling
+EVERYDAY	jj	ڄ	95	ASSUMPTION: explicit implosive alias; j|j escapes doubling
+EVERYDAY	dd	ڏ	95	ASSUMPTION: explicit implosive alias; d|d escapes doubling
+EVERYDAY	gg	ڳ	95	ASSUMPTION: explicit implosive alias; g|g escapes doubling
+EVERYDAY	tt	ٽ	95	ASSUMPTION: explicit retroflex alias; t|t escapes doubling
+EVERYDAY	tth	ٺ	96	ASSUMPTION: aspirated retroflex alias
+EVERYDAY	ddd	ڊ	96	ASSUMPTION: explicit retroflex alias
+EVERYDAY	ddh	ڍ	96	ASSUMPTION: aspirated retroflex alias
+EVERYDAY	rr	ڙ	95	ASSUMPTION: explicit retroflex alias
+EVERYDAY	nn	ڻ	95	ASSUMPTION: explicit retroflex alias
+EVERYDAY	ny	ڃ	95	ASSUMPTION: palatal nasal alias
+EVERYDAY	ng	ڱ	95	ASSUMPTION: velar nasal alias
+EVERYDAY	ch	چ	95	ASSUMPTION: everyday affricate alias
+EVERYDAY	chh	ڇ	96	ASSUMPTION: aspirated affricate alias
+EVERYDAY	c	چ	80	ASSUMPTION: additional everyday alias
+EVERYDAY	kh	ک	95	ASSUMPTION: ambiguous kh; user chooses
+EVERYDAY	kh	خ	94	ASSUMPTION: ambiguous kh; user chooses
+EVERYDAY	gh	گھ	95	ASSUMPTION: ambiguous gh; user chooses
+EVERYDAY	gh	غ	94	ASSUMPTION: ambiguous gh; user chooses
+EVERYDAY	s	ث	75	ASSUMPTION: spelling ambiguity
+EVERYDAY	s	ص	74	ASSUMPTION: spelling ambiguity
+EVERYDAY	z	ذ	75	ASSUMPTION: spelling ambiguity
+EVERYDAY	z	ض	74	ASSUMPTION: spelling ambiguity
+EVERYDAY	z	ظ	73	ASSUMPTION: spelling ambiguity
+EVERYDAY	t	ط	75	ASSUMPTION: spelling ambiguity
+EVERYDAY	h	ح	75	ASSUMPTION: spelling ambiguity
+EVERYDAY	h	ه	74	ASSUMPTION: alternate Unicode heh form
+EVERYDAY	'	ء	90	ASSUMPTION: explicit hamza key
+EVERYDAY	ain	ع	96	ASSUMPTION: explicit ayn escape; whole-word lexicon takes precedence
+SCHOLARLY	b̤	ٻ	96	DRAFT strict token; ALA-LC source verification pending
+SCHOLARLY	ẑ	ڄ	96	DRAFT strict token; ALA-LC source verification pending
+SCHOLARLY	d̤	ڏ	96	DRAFT strict token; ALA-LC source verification pending
+SCHOLARLY	g̈	ڳ	96	DRAFT strict token; ALA-LC source verification pending
+SCHOLARLY	ṭ	ٽ	95	DRAFT strict token; retroflex distinction
+SCHOLARLY	ṭh	ٺ	96	DRAFT strict token; aspirated retroflex distinction
+SCHOLARLY	ḍ	ڊ	95	DRAFT strict token; retroflex distinction
+SCHOLARLY	ḍh	ڍ	96	DRAFT strict token; aspirated retroflex distinction
+SCHOLARLY	ṛ	ڙ	95	DRAFT strict token; retroflex distinction
+SCHOLARLY	ṇ	ڻ	95	DRAFT strict token; retroflex distinction
+SCHOLARLY	ñ	ڃ	95	DRAFT strict token; nasal distinction
+SCHOLARLY	ṅ	ڱ	95	DRAFT strict token; nasal distinction
+SCHOLARLY	c	چ	95	DRAFT strict token; distinguish c from ch
+SCHOLARLY	ch	ڇ	96	DRAFT strict token; distinguish c from ch
+SCHOLARLY	s̱	ث	95	DRAFT strict token; source verification pending
+SCHOLARLY	ṣ	ص	95	DRAFT strict token; source verification pending
+SCHOLARLY	ẕ	ذ	95	DRAFT strict token; source verification pending
+SCHOLARLY	z̤	ض	95	DRAFT strict token; source verification pending
+SCHOLARLY	ẓ	ظ	95	DRAFT strict token; source verification pending
+SCHOLARLY	ṭ	ط	90	DRAFT homograph retained; choose candidate
+SCHOLARLY	ḥ	ح	95	DRAFT strict token; source verification pending
+SCHOLARLY	kh	ک	95	DRAFT ambiguous scholarly digraph; choose candidate
+SCHOLARLY	kh	خ	94	DRAFT ambiguous scholarly digraph; choose candidate
+SCHOLARLY	gh	گھ	95	DRAFT ambiguous scholarly digraph; choose candidate
+SCHOLARLY	gh	غ	94	DRAFT ambiguous scholarly digraph; choose candidate
+SCHOLARLY	ʻ	ع	95	ASSUMPTION: keyboard uses U+02BB for ayn
+SCHOLARLY	'	ء	95	ASSUMPTION: explicit hamza escape; not LoC omit rule
+SCHOLARLY	a	َ	90	ASSUMPTION: strict short vowel becomes explicit Arabic mark
+SCHOLARLY	i	ِ	90	ASSUMPTION: strict short vowel becomes explicit Arabic mark
+SCHOLARLY	u	ُ	90	ASSUMPTION: strict short vowel becomes explicit Arabic mark
+SCHOLARLY	ā	ا	95	ASSUMPTION: long-vowel letter; word-initial rules incomplete
+SCHOLARLY	ī	ي	95	ASSUMPTION: long-vowel letter; word-initial rules incomplete
+SCHOLARLY	ū	و	95	ASSUMPTION: long-vowel letter; word-initial rules incomplete
+SCHOLARLY	e	ي	90	ASSUMPTION: vowel-letter fallback; rules incomplete
+SCHOLARLY	o	و	90	ASSUMPTION: vowel-letter fallback; rules incomplete
+SCHOLARLY	ai	َي	96	ASSUMPTION: diphthong fallback; rules incomplete
+SCHOLARLY	au	َو	96	ASSUMPTION: diphthong fallback; rules incomplete

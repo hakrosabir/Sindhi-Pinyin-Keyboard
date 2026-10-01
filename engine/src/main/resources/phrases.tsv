@@ -1,0 +1,30 @@
+# Original draft demonstrations. Context is previous committed Sindhi text. Roman keys are EVERYDAY only.
+# Target text is inserted AFTER context, never a replacement for existing text.
+context	roman	text	frequency	note
+	salam	السلام عليڪم	500	DRAFT greeting expansion; expert review required
+	mehrbani	توهان جي مهرباني	480	DRAFT phrase expansion; expert review required
+مان	aahiyan	آهيان	900	DRAFT one-word contextual suggestion
+مان	sindhi	سنڌي	850	DRAFT one-word contextual suggestion
+سنڌي	boli	ٻولي	920	DRAFT one-word contextual suggestion
+ٻولي	ahe	آهي	820	DRAFT one-word contextual suggestion
+توهان	ji	جي	890	DRAFT one-word contextual suggestion
+توهان	changa aahiyo	چڱا آهيو	840	DRAFT short phrase suggestion
+جي	mehrbani	مهرباني	860	DRAFT one-word contextual suggestion
+منهنجو	nalo	نالو	880	DRAFT one-word contextual suggestion
+نالو	ahe	آهي	820	DRAFT one-word contextual suggestion
+شڪريو	mehrbani	مهرباني	700	DRAFT one-word contextual suggestion
+سنڌ	ma	۾	1000	User example Sindh ma means in Sindh; one-word context assumption
+قمبر	ma	۾	1000	DRAFT place followed by in; review
+ڪراچي	ma	۾	1000	DRAFT place followed by in; review
+پاڪستان	ma	۾	1000	DRAFT place followed by in; review
+نالو	sha	ڇا	1000	User example nalo sha; inferred Sindhi
+ڇا	ahe	آهي	1000	User example sha ahe; inferred Sindhi
+توهان	kathe	ڪٿي	1000	User example twan kathe; inferred Sindhi
+ڪٿي	rahnda	رهندا	1000	User example kathe rahnda; inferred Sindhi
+رهندا	ahyo	آهيو	1000	User example rahnda ahyo; inferred Sindhi
+رهندو	ahyna	آهيان	1000	User example rahndo ahyna; inferred Sindhi
+۾	rahndo	رهندو	960	DRAFT contextual next word; review
+توهان	jo nalo	جو نالو	960	DRAFT short phrase from user example; review
+نالو	sha ahe	ڇا آهي	950	DRAFT short phrase from user example; review
+ڪٿي	rahnda ahyo	رهندا آهيو	950	DRAFT short phrase from user example; review
+۾	rahndo ahyna	رهندو آهيان	950	DRAFT short phrase from user example; review

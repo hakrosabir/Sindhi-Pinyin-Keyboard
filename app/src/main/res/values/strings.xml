@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sindhi Pinyin Keyboard</string>
+    <string name="subtype_sindhi">Roman Sindhi</string>
+    <string name="subtype_english">English</string>
+</resources>

@@ -1,0 +1,27 @@
+name: Bug report
+description: Report a reproducible keyboard problem
+title: '[Bug] '
+body:
+  - type: markdown
+    attributes:
+      value: Use invented sample text. Do not share passwords, private conversations, or learned dictionary exports.
+  - type: input
+    id: environment
+    attributes:
+      label: Device, Android version, app version, and editor
+      placeholder: Phone model / Android version / keyboard version / app being typed into
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include keyboard mode and a non-private example input.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
